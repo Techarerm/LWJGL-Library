@@ -5,7 +5,7 @@ LWJGL Library(Windows) for Java Edition Minecraft.
 ## Support List
 1.0 - 1.7.2 : LWJGL 2.6.x
 
-1.7.3 - 1.8.9 : LWJGL 2.8.x
+1.7.3 - 1.8.9 : LWJGL 2.8.x (1.8 support 2.8.x and 2.9.x)
 
 1.8 - 1.12 : LWJGL 2.9.4
 
