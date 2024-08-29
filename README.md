@@ -21,6 +21,6 @@ LWJGL Library(Windows) for Java Edition Minecraft(Also for BakeLauncher download
 
 1.16 - 1.18.2 : LWJGL 3.2.2(1.16)
 
-1.19 Now : LWJGL 3.3.3
+1.19-Now : LWJGL 3.3.3
 
 ....Snapshot...WIP :)
