@@ -1,3 +1,7 @@
+# DON'T USE THIS!!!
+
+# Edit: Now BakeLauncher can generate natives. This repo will no longer be updated!
+
 # LWJGL-Library
 LWJGL Library(Windows) for Java Edition Minecraft(Also for BakeLauncher download LWJGL🙂).
 (All file are backup from CDN)
